@@ -1,0 +1,1 @@
+This is Derek Pruitt's first git project!
